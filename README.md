@@ -1,5 +1,5 @@
 # SDGT
-Generating Synthetic Data for Tabular datasets and using it for training XGBoost classifier.
+Generating Synthetic Tabular Data (GSTD) and using it for training XGBoost classifier.
 
 Important Note: This code is under MIT License:
 
