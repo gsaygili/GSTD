@@ -1,0 +1,15 @@
+name: env_gstd
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - tqdm
+  - xgboost
+  - pip
+  - pip:
+      - distfit
