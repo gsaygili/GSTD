@@ -1,4 +1,4 @@
-# SDGT
+# GSTD
 Generating Synthetic Tabular Data (GSTD) and using it for training XGBoost classifier.
 
 Important Note: This code is under MIT License:
